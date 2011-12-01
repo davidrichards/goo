@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "goo"
   gem.homepage = "http://github.com/davidrichards/goo"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "davidlamontrichards@gmail.com"
+  gem.summary = %Q{Systems Modeling}
+  gem.description = %Q{Using Ruby metaprogramming, creating mechanical, biological, and socioeconomic models for fun and profit.}
+  gem.email = "david@fleetventures.com"
   gem.authors = ["David Richards"]
   # dependencies defined in Gemfile
 end
